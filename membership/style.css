@@ -1,0 +1,17 @@
+h1, p{
+    text-align:center;
+}
+  
+.space-box{
+    height:80px;
+}
+
+.btn a {
+    color: white;
+}
+  
+.btn a:hover {
+    color: white;
+    text-decoration: none;
+}
+
